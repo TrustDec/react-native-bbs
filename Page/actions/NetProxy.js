@@ -6,7 +6,7 @@
 'use strict';
 import React, { Component } from 'react';
 
-class NetProxy extends React.Component {
+class NetProxy extends Component {
 
   //post请求
   /**
@@ -14,22 +14,7 @@ class NetProxy extends React.Component {
   *data:参数
   *callback:回调函数
   */
-  /*static  postFrom(url, data, callback) {
-      var fetchOptions = {
-        method: 'POST',
-        headers: {
-          'Accept': 'application/json',
-          'Content-Type':'application/json',         
-        },
-        body:JSON.stringify(data)
-      };
-    
-      fetch(url, fetchOptions)
-      .then((response) => response.text())
-      .then((responseText) => {
-        callback(JSON.parse(responseText));
-      }).done();
-    }*/
+
     static  postFrom(url, data, callback) {
         var fetchOptions = {
             method: 'POST',

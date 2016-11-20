@@ -35,6 +35,7 @@ class But extends Component {
 }
 export default class ButClick extends Component {
   render() {
+    console.log(Vibration);
     return (
       <View style={{backgroundColor:'#fff',flex:1,}}>
         <Text style={styles.titleTxt}> Vibation震动实例</Text>

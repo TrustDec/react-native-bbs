@@ -14,15 +14,17 @@ import {
 
 import Main,{ Test1 } from './Page/Main';
 import App from './Page/BackAndroid';
-import ButClick from './Page/Vibration';
-import ToastAnd from './Page/ToastAndroid';
-import ActivityIndicatorDome from './Page/ActivityIndicator';
-import DrawerLayoutAd from './Page/DrawerLayoutAndroid';
-import HttpCache from './Page/HttpCache';
-import LView from './Page/ListView';
-/*import LayoutAnimationDemo from './Page/LayoutAnimation';*/
+  import ButClick from './Page/Vibration';
+  import ToastAnd from './Page/ToastAndroid';
+  import ActivityIndicatorDome from './Page/ActivityIndicator';
+  import DrawerLayoutAd from './Page/DrawerLayoutAndroid';
+// import HttpCache from './Page/HttpCache';
+  import LView from './Page/ListView';
+  import LayoutAnimationDemo from './Page/LayoutAnimation';
 import ViewPagerAn from './Page/ViewPagerAndroidOfficial';
 import ViewPagerAnDemo from './Page/ViewPagerAndroid';
+import PermissionDemo from './Page/PermissionsAndroid';
+import RN37 from './Page/WebView';
 class Study extends Component {
   render() {
     return (
@@ -34,4 +36,5 @@ class Study extends Component {
   }
 }
 
-AppRegistry.registerComponent('Study', () => ViewPagerAnDemo);
+
+AppRegistry.registerComponent('ReactNativeBBS', () => RN37);

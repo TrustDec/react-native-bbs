@@ -7,7 +7,7 @@ import {
   ListView,
 } from 'react-native';
 
-import NetProxy1 from './actions/NetProxy';
+import NetProxy from './actions/NetProxy';
 
 let addAppList="http://api.avatardata.cn/GuoNeiNews/Query?key=9c24d5d7eb96424f8ac93dd25f2ae1da&page=20&rows=50";
 export default class LView extends Component {
@@ -22,7 +22,7 @@ export default class LView extends Component {
 	// 查询库中所有app
     appList(){ 
       let _thisObj =this;  
-      NetProxy1.get(addAppList,function(retJson) {
+      NetProxy.get(addAppList,function(retJson) {
       console.log(retJson);             
           _thisObj.onappListLoad(retJson);
       });

@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-class Study extends Component {
+export default class ReactNativeBBS extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('Study', () => Study);
+AppRegistry.registerComponent('ReactNativeBBS', () => ReactNativeBBS);

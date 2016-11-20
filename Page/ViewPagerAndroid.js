@@ -126,7 +126,7 @@ export default class ViewPagerAnDemo extends Component {
               <Text>{statArrValue[7]}</Text>
           </TouchableHighlight>
         </View>
-        <View style={[styles.xyCen,styles.header2]}>
+        <View style={[styles.xyCen]}>
           <Text style={styles.redTitle}>{statArrValue[9]+""+this.state.position}</Text>   
           <Text style={styles.greenTitle}>{statArrValue[10]+""+this.state.offset}</Text>
            <Text style={styles.redTitle}>{statArrValue[11]+""+this.state.coordinate}</Text>
@@ -137,14 +137,14 @@ export default class ViewPagerAnDemo extends Component {
   }
 }
 const styles = StyleSheet.create({
+  flex:{
+   flex:1
+  },
   header:{
     height:40,
   },
   header1:{
     height:60,
-  },
-  header2:{
-   flex:1
   },
   headTitle:{
     color:'#fff',

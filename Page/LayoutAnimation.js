@@ -35,7 +35,7 @@ var CustomLayoutAnimation = {
     },
     
   };
- const GreenSquare = () =>
+    const GreenSquare = () =>
       <View style={styles.greenSquare}>
         <Text>Green square</Text>
       </View>;
