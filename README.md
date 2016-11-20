@@ -1,5 +1,5 @@
-# React Native V0.34 
->版本号：0.34<br>
+# React Native V0.37
+>版本号：0.37<br>
 >开始日期：2016.10.10<br>
 >每天一个组件/API,附带Demo(Code区注释不能少)<br>
 >💗💗💗💗
@@ -63,6 +63,6 @@ _createWatcher(rootConfig) {
 </pre> 
 ####listView组件更新机制:[Github](https://github.com/changfuguo/react-native/blob/master/listview.md);
 ####ListView不滑动问题
-	解决方法：父级加flex：1
+	解决方法：listview自身和它的父容器都要加flex：1,哪层断了都不行
 
 相关解决方法:[stackoverflow](http://stackoverflow.com/questions/32874559/listview-fails-to-scroll);
