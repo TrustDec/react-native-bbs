@@ -70,7 +70,8 @@ _createWatcher(rootConfig) {
 ####JPush-react-native:极光推送
 >测试时推送建议消息：建议集成SDK时加上统计代码以评估推送效果;
   
-   解决方式按照提示内容找到
+#####解决方式按照提示内容找到
+
 >X:xxx porject\node_modules\react-native\local-cli\link\__fixtures__\android\0.17\下的MainActivity.java文件，
 搜索onPesume()，在此方法中加入:JPushInterface.onResume();就不会推送显示此消息
 
