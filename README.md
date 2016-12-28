@@ -4,15 +4,11 @@
 >每天一个组件/API,附带Demo(Code区注释不能少)<br>
 >💗💗💗💗
 
-####微信公众号：专注前端开发
-
+####微信公众号：Domeday
 ![](https://raw.githubusercontent.com/TrustTheBoy/imagesGithub/master/WeChat/publick/WeChatCode.jpg)
 
 ##React Native BBS目录结构区/Dome标记区
->一级项目等级顺序：见习、正式、知名、职业、著名、元老
 
-	--ReactNativeNoviciate		主要啃手册为主
-	--
 ## 项目过程中遇到的 RN 初级问题记录区
 
 #### React Native平台适配:
