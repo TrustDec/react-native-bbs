@@ -65,11 +65,16 @@ _createWatcher(rootConfig) {
 ####ListView不滑动问题
 	解决方法：listview自身和它的父容器都要加flex：1,哪层断了都不行
 
-相关解决方法:[stackoverflow](http://stackoverflow.com/questions/32874559/listview-fails-to-scroll);
+	相关解决方法:[stackoverflow](http://stackoverflow.com/questions/32874559/listview-fails-to-scroll);
 
 ####JPush-react-native:极光推送
 >测试时推送建议消息：建议集成SDK时加上统计代码以评估推送效果;
-
-解决方式按照提示内容找到
+  
+   解决方式按照提示内容找到
 >X:xxx porject\node_modules\react-native\local-cli\link\__fixtures__\android\0.17\下的MainActivity.java文件，
 搜索onPesume()，在此方法中加入:JPushInterface.onResume();就不会推送显示此消息
+
+####JPush-react-native:react-native run-android报错：Unknown named module: jpush-react-native'
+	rnpm link jpush-react-native 导入模块时出了问题
+	
+>相关issue提问：[@jpush-react-native:107](https://github.com/jpush/jpush-react-native/issues/107)
