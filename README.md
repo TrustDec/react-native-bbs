@@ -75,3 +75,19 @@ _createWatcher(rootConfig) {
 	rnpm link jpush-react-native 导入模块时出了问题
 	
 >相关issue提问：[@jpush-react-native:107](https://github.com/jpush/jpush-react-native/issues/107)
+
+####React Native开发中遇到的问题总结
+> 1.<span style='color:green'>在操控Genymotion时,鼠标左右滑动会切换到自动搜索,搜索框中自动输入0003,这问题搞得我当时很头痛,最后发现是因为开启的有道词典的划词取词导致这样,关闭有道或者取消划词取词功能;</span>
+
+
+> 2.<span style='color:red'>使用Navigator跳转下一页时的切换特效:
+	切换时body需要设置backgroundColor/flex,没有backgroundColor/flex时切换时可以看见切换前的页面渐隐效果,体验不好
+	例如:View style={{flex:1,backgroundColor:'#fff'}}</span>
+
+> 3.<span style='color:#188eee'>安卓禁止禁止横屏：..\android\app\src\main\AndroidManifest.xml添加：
+	找到android:name=".MainActivity"
+		添加属性：
+		 android:screenOrientation="portrait"</span>
+
+> <span style='color:#EC0FDB'>4.Android中图片放在android\app\src\main\res下(文件夹名:drawable-xxhdpi),并且图片名都是小写
+Ios中进入ios\MobileCampus\下,删除Images.xcassets文件夹下的东西,复制你的图片
