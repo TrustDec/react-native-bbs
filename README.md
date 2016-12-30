@@ -68,8 +68,12 @@ _createWatcher(rootConfig) {
   
 #####解决方式按照提示内容找到
 
->X:xxx porject\node_modules\react-native\local-cli\link\__fixtures__\android\0.17\下的MainActivity.java文件，
-搜索onPesume()，在此方法中加入:JPushInterface.onResume();就不会推送显示此消息
+><span style='color:#ddd'>X:xxx porject\node_modules\react-native\local-cli\link\__fixtures__\android\0.17\下的MainActivity.java文件，
+搜索onPesume()，在此方法中加入:JPushInterface.onResume();就不会推送显示此消息,</span>
+
+><span style='color:green'>X:xxx porject\node_modules\react-native\local-cli\link\__fixtures__\android\0.17\下的每一个.java文件，
+搜索onPesume()/onPause方法，在此方法中加入:JPushInterface.onResume();/JPushInterface.onPause()就不会推送显示此消息,</span>
+
 
 ####JPush-react-native:react-native run-android报错：Unknown named module: jpush-react-native'
 	rnpm link jpush-react-native 导入模块时出了问题
