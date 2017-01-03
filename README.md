@@ -95,3 +95,13 @@ _createWatcher(rootConfig) {
 
 > <span style='color:#EC0FDB'>4.Android中图片放在android\app\src\main\res下(文件夹名:drawable-xxhdpi),并且图片名都是小写
 Ios中进入ios\MobileCampus\下,删除Images.xcassets文件夹下的东西,复制你的图片
+
+####Ubuntu 权限问题
+![](https://github.com/TrustTheBoy/ReactNativeBBS/blob/master/imgae/ubuntu.jpg?raw=true)
+这是gradlew没有执行权限
+>解决方案：chmod +x ./android/gradlew
+
+- 每个项目都得执行一次吗？
+
+
+	只有一个原因需要执行，就是你这个项目是别处拷来的
