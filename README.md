@@ -9,6 +9,9 @@
 
 ##React Native BBS目录结构区/Dome标记区
 
+####react-native指定版本：	
+	react-native init Name --version=0.38.0
+
 ## 项目过程中遇到的 RN 初级问题记录区
 
 #### React Native平台适配:
