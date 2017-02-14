@@ -1,7 +1,6 @@
-# React Native V0.37
->版本号：0.37<br>
+# React Native V0.42
+>版本号：0.42<br>
 >开始日期：2016.10.10<br>
->每天一个组件/API,附带Demo(Code区注释不能少)<br>
 >💗💗💗💗
 
 ####微信公众号：Domeday
@@ -10,7 +9,9 @@
 ##React Native BBS目录结构区/Dome标记区
 
 ####react-native指定版本：	
-	react-native init Name --version=0.38.0
+	react-native init Name --version=0.42
+>get 详细版本信息指定方式：
+	[指定版本>>](http://www.jianshu.com/p/646c5fbd9659 "指定版本")
 
 ## 项目过程中遇到的 RN 初级问题记录区
 
@@ -106,8 +107,6 @@ Ios中进入ios\MobileCampus\下,删除Images.xcassets文件夹下的东西,复�
 
 - 每个项目都得执行一次吗？
 
-
 	只有一个原因需要执行，就是你这个项目是别处拷来的
 
-####如何指定特定的 React-Native 版本
-[指定版本>>](http://www.jianshu.com/p/646c5fbd9659 "指定版本")
+
