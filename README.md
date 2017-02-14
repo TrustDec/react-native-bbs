@@ -7,7 +7,7 @@
 ![](https://raw.githubusercontent.com/TrustTheBoy/imagesGithub/master/WeChat/publick/WeChatCode.jpg)
 
 ####react native打包后image无法显示，debug下却可以 
-	解决方案：[这里](https://my.oschina.net/u/1460994/blog/802181)	
+	>解决方案：[这里](https://my.oschina.net/u/1460994/blog/802181)	
 ####react-native指定版本：	
 	react-native init Name --version=0.42
 >get 详细版本信息指定方式：
