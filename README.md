@@ -6,7 +6,7 @@
 ####微信公众号：Domeday
 ![](https://raw.githubusercontent.com/TrustTheBoy/imagesGithub/master/WeChat/publick/WeChatCode.jpg)
 ####wechat,qq,sina 登录/分享组件
-![>>>](https://github.com/reactnativecn)
+[>>>](https://github.com/reactnativecn)
 ####react native打包后image无法显示，debug下却可以 
 >解决方案：[这里](https://my.oschina.net/u/1460994/blog/802181)	
 
