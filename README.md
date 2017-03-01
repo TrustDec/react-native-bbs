@@ -17,6 +17,9 @@
 ####react native 博客之星
 [>>>刘成](http://my.csdn.net/liu__520)
 
+####React/React Native 的ES5 ES6写法对照表
+[>>>>>>>>><<<<<<<<](http://reactnative.cn/post/15)
+
 ####react-native指定版本：	
 	react-native init Name --version=0.42
 
