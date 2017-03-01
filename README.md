@@ -12,7 +12,10 @@
 [>>>](http://www.jianshu.com/p/98c8f2a970eb)
 
 ####react native打包后image无法显示，debug下却可以 
->解决方案：[这里](https://my.oschina.net/u/1460994/blog/802181)	
+>解决方案：[这里](https://my.oschina.net/u/1460994/blog/802181)
+
+####react native 博客之星
+[>>>刘成](http://my.csdn.net/liu__520)
 
 ####react-native指定版本：	
 	react-native init Name --version=0.42
