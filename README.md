@@ -122,4 +122,8 @@ Ios中进入ios\MobileCampus\下,删除Images.xcassets文件夹下的东西,复�
 
 	只有一个原因需要执行，就是你这个项目是别处拷来的
 
+####安装成功之后，打开报这个错
+![](../imgae/error1.jpg)
+
+
 
