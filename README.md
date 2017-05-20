@@ -23,6 +23,8 @@
 
 > [50 个完整的 React Native](https://juejin.im/post/58f37cb361ff4b0058f9824a)
 
+> [30天，每天以案例](https://github.com/fangwei716/30-days-of-react-native)
+
 #### react-native指定版本：	
 	react-native init Name --version=0.42
 
