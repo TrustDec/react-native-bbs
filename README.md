@@ -8,18 +8,21 @@
 
 > [wechat,qq,sina 登录/分享组件](https://github.com/reactnativecn)
 
-
 > [React Native开发错误警告总结（持续更新）](http://www.jianshu.com/p/98c8f2a970eb)
 
 > 解决方案：[react native打包后image无法显示，debug下却可以->解决方案 ](https://my.oschina.net/u/1460994/blog/802181)
 
 > [react native 博客之星-刘成](http://my.csdn.net/liu__520)
 
+> [良心 Marno](http://www.marno.cn/)
+
 > [React/React Native 的ES5 ES6写法对照表](http://reactnative.cn/post/15)
 
 > [Touch Android](https://github.com/jariz/react-native-fingerprint-android)
 
 > [Touch IOS](https://github.com/naoufal/react-native-touch-id)
+
+> [50 个完整的 React Native](https://juejin.im/post/58f37cb361ff4b0058f9824a)
 
 #### react-native指定版本：	
 	react-native init Name --version=0.42
