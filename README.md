@@ -1,7 +1,6 @@
 # React Native V0.45.0-rc
 > 版本号：0.42<br>
 > 开始日期：2016.10.10<br>
-> 💗💗💗💗
 
 #### 微信公众号：Domeday
 ![](https://raw.githubusercontent.com/TrustTheBoy/imagesGithub/master/WeChat/publick/WeChatCode.jpg)
