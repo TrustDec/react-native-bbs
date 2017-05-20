@@ -1,15 +1,15 @@
 # React Native V0.42
->版本号：0.42<br>
->开始日期：2016.10.10<br>
->💗💗💗💗
+> 版本号：0.42<br>
+> 开始日期：2016.10.10<br>
+> 💗💗💗💗
 
 #### 微信公众号：Domeday
 ![](https://raw.githubusercontent.com/TrustTheBoy/imagesGithub/master/WeChat/publick/WeChatCode.jpg)
-#### wechat,qq,sina 登录/分享组件 
-[>>>](https://github.com/reactnativecn)
 
-#### React Native开发错误警告总结（持续更新）
-[>>>](http://www.jianshu.com/p/98c8f2a970eb)
+> [wechat,qq,sina 登录/分享组件](https://github.com/reactnativecn)
+
+
+> [React Native开发错误警告总结（持续更新）](http://www.jianshu.com/p/98c8f2a970eb)
 
 #### react native打包后image无法显示，debug下却可以 
 >解决方案：[这里](https://my.oschina.net/u/1460994/blog/802181)
