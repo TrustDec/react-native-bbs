@@ -1,4 +1,4 @@
-# React Native V0.42
+# React Native V0.45.0-rc
 > 版本号：0.42<br>
 > 开始日期：2016.10.10<br>
 > 💗💗💗💗
@@ -11,28 +11,21 @@
 
 > [React Native开发错误警告总结（持续更新）](http://www.jianshu.com/p/98c8f2a970eb)
 
-#### react native打包后image无法显示，debug下却可以 
->解决方案：[这里](https://my.oschina.net/u/1460994/blog/802181)
+> 解决方案：[react native打包后image无法显示，debug下却可以->解决方案 ](https://my.oschina.net/u/1460994/blog/802181)
 
-#### react native 博客之星
-[>>>刘成](http://my.csdn.net/liu__520)
+> [react native 博客之星-刘成](http://my.csdn.net/liu__520)
 
-#### React/React Native 的ES5 ES6写法对照表
-[>>>>>>>>><<<<<<<<](http://reactnative.cn/post/15)
+> [React/React Native 的ES5 ES6写法对照表](http://reactnative.cn/post/15)
 
 #### react-native指定版本：	
 	react-native init Name --version=0.42
 
->get 详细版本信息指定方式：
+> get 详细版本信息指定方式：
 	[指定版本>>](http://www.jianshu.com/p/646c5fbd9659 "指定版本")
 
-#### Touch Android
+> [Touch Android](https://github.com/jariz/react-native-fingerprint-android)
 
-[Android](https://github.com/jariz/react-native-fingerprint-android)
-
-#### Touch IOS 
-
-[ios](https://github.com/naoufal/react-native-touch-id)
+> [Touch IOS](https://github.com/naoufal/react-native-touch-id)
 
 ## 项目过程中遇到的 RN 初级问题记录区
 
