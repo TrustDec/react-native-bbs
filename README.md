@@ -17,15 +17,15 @@
 
 > [React/React Native 的ES5 ES6写法对照表](http://reactnative.cn/post/15)
 
+> [Touch Android](https://github.com/jariz/react-native-fingerprint-android)
+
+> [Touch IOS](https://github.com/naoufal/react-native-touch-id)
+
 #### react-native指定版本：	
 	react-native init Name --version=0.42
 
 > get 详细版本信息指定方式：
 	[指定版本>>](http://www.jianshu.com/p/646c5fbd9659 "指定版本")
-
-> [Touch Android](https://github.com/jariz/react-native-fingerprint-android)
-
-> [Touch IOS](https://github.com/naoufal/react-native-touch-id)
 
 ## 项目过程中遇到的 RN 初级问题记录区
 
@@ -82,7 +82,7 @@ _createWatcher(rootConfig) {
 	相关解决方法:[stackoverflow](http://stackoverflow.com/questions/32874559/listview-fails-to-scroll);
 
 #### JPush-react-native:极光推送
->测试时推送建议消息：建议集成SDK时加上统计代码以评估推送效果;
+> 测试时推送建议消息：建议集成SDK时加上统计代码以评估推送效果;
   
 ##### 解决方式按照提示内容找到
 
