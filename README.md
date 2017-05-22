@@ -5,6 +5,8 @@
 #### 微信公众号：Domeday
 ![](https://raw.githubusercontent.com/TrustTheBoy/imagesGithub/master/WeChat/publick/WeChatCode.jpg)
 
+> MacBook Pro: [无法 加入‘xx’wifi](https://www.zhihu.com/question/20026105) 
+
 > [wechat,qq,sina 登录/分享组件](https://github.com/reactnativecn)
 
 > [React Native开发错误警告总结（持续更新）](http://www.jianshu.com/p/98c8f2a970eb)
